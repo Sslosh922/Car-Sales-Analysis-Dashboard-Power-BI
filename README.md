@@ -17,16 +17,12 @@ The main objective of this project is to transform raw car sales data into meani
 
 The dataset is provided in an Excel file named:
 
-**Car_Sales.xlsx**
+Car_Sales.xlsx
 
 ### Dataset Size
 
-- **Rows:** 23,906
-- **Columns:** 16
-- **Table Name:** `car_data`
-- **Data Period:** 2022
-- **File Format:** Microsoft Excel (`.xlsx`)
-
+- Rows: 23,906
+- Columns: 16
 Each row represents a car sales record.
 
 ### Dataset Columns
@@ -132,7 +128,6 @@ The table includes information such as:
 - Engine
 - Transmission
 - Gender
-
 ---
 
 ## 📊 DAX Measures
@@ -272,28 +267,6 @@ The objective of this project is to demonstrate practical skills in:
 * Data Visualization
 * Business Intelligence
 * Interactive Dashboard Development
-
-The project demonstrates how raw car sales data can be transformed into an interactive Power BI dashboard for analyzing sales performance and business trends.
-
----
-
-## 📌 Project Highlights
-
-**Dataset:** Car Sales Data
-**Records:** 23,906
-**Columns:** 16
-**Data Source:** Microsoft Excel
-**Visualization Tool:** Microsoft Power BI
-**Analysis Language:** DAX
-**Data Transformation:** Power Query
-
----
-
-## 👨‍💻 Technologies Used
-
-**Microsoft Power BI | DAX | Power Query | Microsoft Excel**
-
----
 
 ## 📸 Dashboard Preview
 ![Car Sales Dashboard](Screenshot%202026-09-21%20002204.png)
