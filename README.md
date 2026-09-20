@@ -297,14 +297,6 @@ The project demonstrates how raw car sales data can be transformed into an inter
 
 ## 📸 Dashboard Preview
 
-Add a screenshot of the completed dashboard to the `screenshots` folder and name it:
-
-`dashboard.png`
-
-You can then display it here:
-
-![Car Sales Dashboard](<img width="1917" height="1077" alt="Screenshot 2026-09-21 002212" src="https://github.com/user-attachments/assets/30dff4c9-b7fb-4f71-81a7-f4288fa3b3a2" />
-)
 
 ---
 
