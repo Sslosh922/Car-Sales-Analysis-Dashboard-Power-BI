@@ -303,7 +303,8 @@ Add a screenshot of the completed dashboard to the `screenshots` folder and name
 
 You can then display it here:
 
-![Car Sales Dashboard](screenshots/dashboard.png)
+![Car Sales Dashboard](<img width="1917" height="1077" alt="Screenshot 2026-09-21 002212" src="https://github.com/user-attachments/assets/30dff4c9-b7fb-4f71-81a7-f4288fa3b3a2" />
+)
 
 ---
 
@@ -313,7 +314,3 @@ This Car Sales Analysis Dashboard provides an interactive way to explore sales p
 
 The project demonstrates the use of **Power BI, DAX, Power Query, and Excel** to convert raw data into meaningful and interactive business intelligence insights.
 
-```
-
-**That's the complete README.** You can copy-paste it directly into `README.md`.
-```
