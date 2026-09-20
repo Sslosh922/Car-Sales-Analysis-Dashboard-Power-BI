@@ -230,20 +230,6 @@ The dashboard can be used to analyze:
 
 ---
 
-## 📂 Project Structure
-
-```text
-Car-Sales-PowerBI/
-│
-├── Assesment-5.pbix
-├── Car_Sales.xlsx
-├── README.md
-│
-└── screenshots/
-    └── dashboard.png
-```
-
----
 
 ## 🚀 How to Use
 
