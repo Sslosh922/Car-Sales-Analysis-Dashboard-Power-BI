@@ -296,7 +296,7 @@ The project demonstrates how raw car sales data can be transformed into an inter
 ---
 
 ## 📸 Dashboard Preview
-
+![Car Sales Dashboard](Screenshot%202026-09-21%20002204.png)
 
 ---
 
